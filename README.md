@@ -19,10 +19,6 @@ Um estudante e aspirante a desenvolvedor navegando sua vida nesse mundo digital.
 
 #
 
-### 📫 Contato
-Me envie um email: `vnvz@gmail.com`
-#
-
 ### 🌱 Aprendendo neste momento
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
