@@ -1,10 +1,11 @@
 # ム
-Hi there! 👋
+hi
 
 ## Currently studying:
-- Data Enginering basics on DataCamp
+- data engineering basics on DataCamp
+- devops stuff
 
-Feel free to reach out to me for any collaboration, internship opportunities, or discussions related to software development.
+feel free to reach out to me for any collaboration, internship opportunities, or discussions related to software development.
 
 ![Vinícius' GitHub stats](https://github-readme-stats.vercel.app/api?username=vnvz&show_icons=true&theme=monokai)
 #
