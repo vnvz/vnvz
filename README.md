@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **vvv@cesar.school**
 
-- [📄 Know about my experiences](https://drive.google.com/file/d/1pdqYTuklLo-3PsypTSF4guOYq7WnolO3/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://drive.google.com/file/d/1pdqytukllo-3psyptsf4guoyq7wnolo3/view?usp=sharing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://drive.google.com/file/d/1pdqytukllo-3psyptsf4guoyq7wnolo3/view?usp=sharing" height="30" width="40" /></a>
