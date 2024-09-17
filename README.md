@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Vinícius</h1>
-<h3 align="center">Cloud Enthusiast & FinOps Learner</h3>
+<h3 align="center">CloudOps Engineer & FinOps enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnvz&label=Profile%20views&color=0e75b6&style=flat" alt="vnvz" /> </p>
 
